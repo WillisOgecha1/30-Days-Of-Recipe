@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">Cuisine</string>
+
+
+    <string name="day_1">Day 1</string>
+    <string name="day1">Ugali and Sukuma Wiki</string>
+    <string name="day_1_description">A staple Kenyan dish made with maize flour and served with braised collard greens.</string>
+
+
+    <string name="day_2">Day 2</string>
+    <string name="day2">Nyama Choma</string>
+    <string name="day_2_description">Nyama Choma, which translates to "roasted meat" in Swahili, is a beloved dish in Kenya and across
+        East Africa. It is a simple yet flavorful dish that highlights the natural taste of the meat,
+        which is typically marinated with a mixture of spices and grilled over an open flame until tender and charred.</string>
+
+
+    <string name="day_3">Day 3</string>
+    <string name="day3">Chapati</string>
+    <string name="day_3_description">Chapati is a staple food in Kenyan cuisine, often served alongside
+        main dishes such as stews, curries, or grilled meats. It is a type of unleavened flatbread made from
+        a simple dough of flour, water, salt, and sometimes oil or fat. Chapati is known for its soft and flaky texture,
+        making it a delicious accompaniment to a wide variety of dishes.</string>
+
+
+    <string name="day_4">Day 4</string>
+    <string name="day4">Githeri</string>
+    <string name="day_4_description">Githeri, a traditional Kenyan dish made from a hearty mixture of maize (corn) and beans,
+        typically cooked together until tender and seasoned with various spices.</string>
+
+
+    <string name="day_5">Day 5</string>
+    <string name="day5"> Mandazi</string>
+    <string name="day_5_description">Mandazi is a beloved snack in Kenya and other East African countries,
+        often enjoyed with tea or coffee for breakfast or as a sweet treat throughout the day.
+        These deep-fried doughnuts are soft on the inside and slightly crispy on the outside, with a hint of sweetness and aromatic spices.</string>
+
+
+    <string name="day_6">Day 6</string>
+    <string name="day6">Samosa</string>
+    <string name="day_6_description">Samosas are savory, triangular-shaped pastries filled with a mixture of spiced potatoes, peas,
+        and sometimes meat, then deep-fried until golden brown and crispy.
+        They are a beloved snack in Kenya and are often enjoyed as appetizers or street food.</string>
+
+
+    <string name="day_7">Day 7</string>
+    <string name="day7">Pilau</string>
+    <string name="day_7_description">Pilau is a classic dish in Kenyan cuisine, known for its rich spices, tender meat, and aromatic rice.
+        It is often served during festive occasions, celebrations, and family gatherings.</string>
+
+
+    <string name="day_8">Day 8</string>
+    <string name="day8">Matoke</string>
+    <string name="day_8_description">Matoke is a traditional dish that originated from
+        Uganda but is also widely enjoyed in Kenya and other East African countries. It is made from green bananas,
+        also known as cooking bananas or plantains, which are peeled, chopped, and cooked until tender.
+        Matoke can be prepared in various ways, but one common method involves stewing the bananas with onions,
+        tomatoes, and spices to create a flavorful and hearty dish.</string>
+
+
+    <string name="day_9">Day 9</string>
+    <string name="day9">Mursik</string>
+    <string name="day_9_description">Mursik is a unique and culturally significant beverage in Kenya, known for its distinctive fermented flavor.
+        It is traditionally made by fermenting cows milk in a specially prepared gourd known as a "sotet" or "sotit."
+        The gourd is charred on the inside to impart a smoky flavor to the milk, and ash from certain plants is added to aid in the fermentation process.
+        Mursik is typically consumed as a refreshing drink, and it is also believed to have various health benefits..</string>
+
+
+    <string name="day_10">Day 10</string>
+    <string name="day10">Kenyan Masala Chips</string>
+    <string name="day_10_description">Kenyan Masala Chips are a delicious and indulgent snack or
+        side dish commonly found in street food stalls and local eateries throughout Kenya. These crispy French fries are
+        elevated with the addition of a special masala spice blend,
+        which gives them a unique and aromatic flavor</string>
+
+
+    <string name="day_11">Day 11</string>
+    <string name="day11">Mahamri</string>
+    <string name="day_11_description">Mahamri is a traditional Kenyan pastry that is similar
+        to doughnuts but with a slightly different texture and flavor profile.
+        It is often enjoyed as a breakfast dish or as a sweet treat with tea or coffee.</string>
+
+
+    <string name="day_12">Day 12</string>
+    <string name="day12"> Kenyan Beef Stew</string>
+    <string name="day_12_description">Slow-cooked beef stew with potatoes, carrots, and other vegetables, seasoned with Kenyan spices.</string>
+
+
+    <string name="day_13">Day 13</string>
+    <string name="day13">Kachumbari</string>
+    <string name="day_13_description">Kachumbari is a popular Kenyan salad known for its simplicity and refreshing flavors.
+        It is often served as a side dish or accompaniment to grilled meats, stews, or rice dishes.
+        This salad is particularly popular during gatherings, celebrations, and outdoor barbecues.</string>
+
+
+    <string name="day_14">Day 14</string>
+    <string name="day14">Fish in Coconut Sauce</string>
+    <string name="day_14_description">Fish in Coconut Sauce is a beloved dish along the Kenyan coast,
+        where seafood is abundant and coconut is a common ingredient in many dishes.
+        This dish typically features fresh fish cooked in a creamy coconut curry sauce infused with aromatic spices.</string>
+
+
+    <string name="day_15">Day 15</string>
+    <string name="day15">Ugali and Omena </string>
+    <string name="day_15_description">Ugali is a fundamental part of the Kenyan diet and is made from maize flour (also known as cornmeal) cooked with water to a thick, dough-like consistency.
+        It serves as a staple carbohydrate and is commonly eaten alongside various meat, vegetable, or fish dishes.
+Omena, also known as "dagaa" in some regions, are tiny dried fish that are a popular ingredient in Kenyan cooking,
+        especially in the Lake Victoria region. They are rich in protein, omega-3 fatty acids, and other nutrients,
+        making them a nutritious addition to meals.</string>
+
+
+    <string name="day_16">Day 16</string>
+    <string name="day16">Kenyan Tea</string>
+    <string name="day_16_description">Strong black tea with milk and sugar, often enjoyed with mandazi or chapati.</string>
+
+
+    <string name="day_17">Day 17</string>
+    <string name="day17">Mukimo</string>
+    <string name="day_17_description">Mukimo is a beloved dish in Kenyan cuisine, particularly among the Kikuyu ethnic group,
+        although it is enjoyed by people from various backgrounds across the country.
+        It is a hearty and flavorful dish that combines mashed potatoes with other ingredients to create a delicious and satisfying meal.</string>
+
+
+    <string name="day_18">Day 18</string>
+    <string name="day18">Kenyan Vegetable Curry</string>
+    <string name="day_18_description">A flavorful curry made with mixed vegetables and coconut milk.</string>
+
+
+    <string name="day_19">Day 19</string>
+    <string name="day19">Mbaazi</string>
+    <string name="day_19_description">Mbaazi is a popular dish in Kenya, especially along the coastal regions, where it is often enjoyed as a breakfast dish or as a side dish for lunch or dinner.
+        It is made from pigeon peas, also known as Congo peas or gungo peas, which are simmered in creamy coconut milk along with aromatic spices.</string>
+
+
+    <string name="day_20">Day 20</string>
+    <string name="day20">Kenyan Chicken Curry</string>
+    <string name="day_20_description">Kenyan Chicken Curry is a popular dish enjoyed across the country, known for its bold flavors and comforting appeal. It combines tender chicken pieces
+        with a fragrant curry sauce made from a blend of spices and other ingredients.</string>
+
+
+    <string name="day_21">Day 21</string>
+    <string name="day21">Chili Scrambled Eggs</string>
+    <string name="day_21_description">Chili Scrambled Eggs is a simple yet flavorful dish made by whisking together eggs with
+        chopped chili peppers and seasoning, then cooking them until fluffy and fully set</string>
+
+
+    <string name="day_22">Day 22</string>
+    <string name="day22"> Beef Pilau</string>
+    <string name="day_22_description">Fragrant rice dish cooked with beef, spices, and caramelized onions.</string>
+
+
+    <string name="day_23">Day 23</string>
+    <string name="day23">Bhajia</string>
+    <string name="day_23_description">Spicy potato fritters, often served as a snack or appetizer.</string>
+
+
+    <string name="day_24">Day 24</string>
+    <string name="day24">Irio</string>
+    <string name="day_24_description">Mashed potatoes mixed with peas, corn, and sometimes spinach, a traditional Kikuyu dish.</string>
+
+
+    <string name="day_25">Day 25</string>
+    <string name="day25">Kenyan Beef Biriyani</string>
+    <string name="day_25_description">Fragrant rice dish cooked with beef, vegetables, and aromatic spices.</string>
+
+
+    <string name="day_26">Day 26</string>
+    <string name="day26">Kenyan Lentil Soup</string>
+    <string name="day_26_description"> Hearty soup made with lentils, tomatoes, and Kenyan spices.</string>
+
+
+    <string name="day_27">Day 27</string>
+    <string name="day27">Kenyan Fried Fish</string>
+    <string name="day_27_description">Crispy fried fish seasoned with Kenyan spices, often served with ugali.</string>
+
+
+    <string name="day_28">Day 28</string>
+    <string name="day28">Fried Beans</string>
+    <string name="day_28_description"> A common dish made from cooked beans sautéed with onions, tomatoes, and spices.</string>
+
+
+    <string name="day_29">Day 29</string>
+    <string name="day29">Fried Sosi</string>
+    <string name="day_29_description">"Well-fried sosi soya chunks" refers to a dish made with soya chunks, also known as textured vegetable protein (TVP) or soy meat, seasoned and fried until crispy and well-cooked.</string>
+
+
+    <string name="day_30">Day 30</string>
+    <string name="day30">Ndengu</string>
+    <string name="day_30_description"> Green grams (mung beans) cooked with onions, tomatoes, and spices, a nutritious and popular dish in Kenya.</string>
+
+</resources>
